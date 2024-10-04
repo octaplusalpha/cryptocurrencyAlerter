@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f92a8a5-55b3-47ad-9338-4aec85f55938" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cryptocurrencyAlerter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alerter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptoData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currencyConverter.py" afterDir="false" />
+    <list default="true" id="4f92a8a5-55b3-47ad-9338-4aec85f55938" name="Changes" comment="crypto converlerter v1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -50,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RunManager" selected="Python.currencyConverter">
@@ -190,6 +184,96 @@
       <option name="presentableId" value="Default" />
       <updated>1727796052944</updated>
     </task>
+    <task id="LOCAL-00001" summary="crypto converlerter v1.0">
+      <option name="closed" value="true" />
+      <created>1728042566299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728042566300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:C:/Users/Octaplus/Documents/PYCHARM PROJECTS/cryptocurrencyAlerter/.idea" />
+                  <option value="file:$PROJECT_DIR$/cryptoData.py" />
+                  <option value="file:$PROJECT_DIR$/alerter.py" />
+                  <option value="file:$PROJECT_DIR$/currencyConverter.py" />
+                  <option value="dir:C:/Users/Octaplus/Documents/PYCHARM PROJECTS/cryptocurrencyAlerter/.venv" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1727955588364" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Octaplus/Documents/PYCHARM PROJECTS/cryptocurrencyAlerter/.idea" />
+                        <option value="file:$PROJECT_DIR$/cryptoData.py" />
+                        <option value="file:$PROJECT_DIR$/alerter.py" />
+                        <option value="file:$PROJECT_DIR$/currencyConverter.py" />
+                        <option value="dir:C:/Users/Octaplus/Documents/PYCHARM PROJECTS/cryptocurrencyAlerter/.venv" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="crypto converlerter v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="crypto converlerter v1.0" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f92a8a5-55b3-47ad-9338-4aec85f55938" name="Changes" comment="crypto converlerter v1.0">
+    <list default="true" id="4f92a8a5-55b3-47ad-9338-4aec85f55938" name="Changes" comment="crypto converlerter v1.02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728042566300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="crypto converlerter v1.01">
+      <option name="closed" value="true" />
+      <created>1728062418265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728062418267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="crypto converlerter v1.02">
+      <option name="closed" value="true" />
+      <created>1728062645216</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728062645216</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -272,7 +288,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="crypto converlerter v1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="crypto converlerter v1.0" />
+    <MESSAGE value="crypto converlerter v1.01" />
+    <MESSAGE value="crypto converlerter v1.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="crypto converlerter v1.02" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

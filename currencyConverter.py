@@ -1,6 +1,7 @@
 import requests
-from cryptoData import get_coins
+
 from alerter import alert
+from cryptoData import get_coins
 
 
 def convert_currency( symbol: str, convert_to: str, convert_from: str, coin_list: list):
@@ -33,8 +34,4 @@ if __name__ == '__main__':
         print(f'converted amount for {selected_coin.symbol}: N{currency}')
         alert(target_symbol, 50000, 100000, selected_coin)
     else:
-        print(f'Coin with symbol {target_symbol} not found')
-
-
-
-
+        print(f'Coin with symbol: {target_symbol} not found!')
